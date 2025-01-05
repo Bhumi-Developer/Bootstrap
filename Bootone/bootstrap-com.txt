@@ -1,0 +1,27 @@
+pt-padding top
+
+pb-padding bottom
+
+mt-margin top 
+
+mb-margin bottom
+
+object-fit-{contain,cover,fill....}
+
+text-center
+
+text-primary=blue
+
+text-danger=red
+
+text-success=green
+
+d-block=display block
+
+w-10=width-10
+
+text-white=white text vste
+
+link-light=blue text to white for anchor tag
+
+link-text-decoration-none
